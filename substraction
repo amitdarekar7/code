@@ -1,0 +1,4 @@
+def substract():
+  a=63
+  b=28
+  return a-b
