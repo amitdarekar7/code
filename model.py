@@ -16,4 +16,4 @@ class Post(models.Model):
         return reverse('post-detail',kwargs={'pk':self.pk})
     
     def new():
-        print("Hello")
+        print("Hello amit")
